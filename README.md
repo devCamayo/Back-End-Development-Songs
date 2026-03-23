@@ -1,0 +1,24 @@
+# Back-End-Development-Songs
+
+## 🎵 Servicio de Canciones - Backend
+
+Este servicio proporciona una API RESTful para la gestión de canciones, desarrollada con Flask. Permite crear, leer, actualizar y eliminar canciones a través de endpoints REST. Es parte del proyecto final del curso IBM Back-End Development.
+
+---
+
+## 🚀 Configuración del Entorno
+
+### Requisitos Previos
+- **Python 3.9.x** (versión específica: 3.9.18 o superior)
+- **Git** (para control de versiones)
+- **pip** (gestor de paquetes de Python)
+- **curl** (para pruebas de endpoints)
+
+### Creación del Entorno Virtual
+
+Sigue estos pasos para configurar el entorno de desarrollo:
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/devCamayo/Back-End-Development-Songs.git
+   cd Back-End-Development-Songs
