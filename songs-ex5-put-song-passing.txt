@@ -1,0 +1,22 @@
+﻿===========================================
+TAREA 9: Endpoint PUT /song/1
+===========================================
+Comando:
+curl -X PUT http://localhost:5002/song/1 -H "Content-Type: application/json" -d '{"title":"Bohemian Rhapsody (Remastered)","artist":"Queen","album":"A Night at the Opera","year":1975}'
+
+Respuesta:
+
+
+===========================================
+ESTADO: PASSED - PUT song exitoso
+===========================================
+Detalles de la actualización:
+- ID de la canción: 
+- Título anterior: Bohemian Rhapsody
+- Título actualizado: 
+- Artista: 
+- Álbum: 
+- Año: 
+
+✅ La canción fue actualizada exitosamente con código HTTP 200
+===========================================

@@ -1,0 +1,6 @@
+﻿Comando: curl http://localhost:5002/health
+
+Respuesta:
+{"status":"OK"}
+
+Estado: PASSED - Health check exitoso

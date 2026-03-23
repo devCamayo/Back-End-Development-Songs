@@ -1,0 +1,24 @@
+﻿===========================================
+TAREA 8: Endpoint GET /song
+===========================================
+Comando:
+curl http://localhost:5002/song
+
+Respuesta:
+{
+    "album":  "A Night at the Opera",
+    "artist":  "Queen",
+    "id":  2,
+    "title":  "Bohemian Rhapsody",
+    "year":  1975
+}
+
+===========================================
+Estado: PASSED - GET song exitoso
+===========================================
+Los datos de la canción muestran:
+- ID: 2
+- Título: Bohemian Rhapsody
+- Artista: Queen
+- Álbum: A Night at the Opera
+- Año: 1975

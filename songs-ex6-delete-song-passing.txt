@@ -1,0 +1,19 @@
+﻿===========================================
+TAREA 10: Endpoint DELETE /song/1
+===========================================
+Comando:
+curl -X DELETE http://localhost:5002/song/1
+
+Respuesta:
+
+
+===========================================
+ESTADO: PASSED - DELETE song exitoso
+===========================================
+Detalles de la eliminación:
+- ID de la canción eliminada: 1
+- Mensaje: 
+- Código HTTP: 200 OK
+
+✅ La canción fue eliminada exitosamente
+===========================================
